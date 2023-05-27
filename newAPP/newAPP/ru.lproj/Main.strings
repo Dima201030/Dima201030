@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "compatibility"; ObjectID = "2Gg-4B-tgw"; */
+"2Gg-4B-tgw.text" = "Совместимость";
+
+/* Class = "UIButton"; configuration.title = "Go back"; ObjectID = "3ue-os-Lw3"; */
+"3ue-os-Lw3.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3ue-os-Lw3"; */
+"3ue-os-Lw3.normalTitle" = "Кнопка";
+
+/* Class = "UILabel"; text = "Partners name"; ObjectID = "8Wz-bl-Gng"; */
+"8Wz-bl-Gng.text" = "Имя партнера";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "DgX-T4-SU8"; */
+"DgX-T4-SU8.text" = "50%";
+
+/* Class = "UILabel"; text = "Your name "; ObjectID = "FFn-ss-ylA"; */
+"FFn-ss-ylA.text" = "Твоё имя";
+
+/* Class = "UILabel"; text = "Name and Name "; ObjectID = "d1q-2W-F7v"; */
+"d1q-2W-F7v.text" = "Имя и Имя";
+
+/* Class = "UILabel"; text = "compatibility"; ObjectID = "e8e-Ee-7Dd"; */
+"e8e-Ee-7Dd.text" = "Совместимость";
+
+/* Class = "UIButton"; configuration.title = "Show result"; ObjectID = "lJg-pZ-sPa"; */
+"lJg-pZ-sPa.configuration.title" = "Покозать результат";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lJg-pZ-sPa"; */
+"lJg-pZ-sPa.normalTitle" = "Кнопка";

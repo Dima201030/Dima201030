@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  newAPP
+
+  Created by Дмитрий  on 27.05.2023.
+  
+*/
+"8103_TITLe" = "Names are missing 😡 ";
+"8103_Message" = "Please enter both names 😉 ";
